@@ -1,0 +1,7 @@
+html {
+    overflow: hidden;
+    background-color: black;
+}
+canvas {
+    background-image: url("images/bg-universe.jpg");
+}
